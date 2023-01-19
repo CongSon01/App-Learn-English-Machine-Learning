@@ -1,0 +1,11 @@
+[
+  { "id": 1, "icon": "user", "title": "Cập nhật thông tin", "slug": "EditAdmin" },
+  { "id": 2, "icon": "edit", "title": "Thêm từ", "slug": "AddVocab" },
+  { "id": 3, "icon": "book", "title": "Tra từ", "slug": "Dictionary" },
+  { "id": 4, "icon": "bookmark", "title": "Từ vựng đã lưu", "slug": "HomeLearnVocab" },
+  { "id": 5, "icon": "mic", "title": "Học speaking", "slug": "LearnSpeaking" },
+  { "id": 6, "icon": "book-open", "title": "Các bài đã học", "slug": "ListBook" },
+  { "id": 7, "icon": "star", "title": "Đánh giá", "slug": "EditAdmin" },
+  { "id": 8, "icon": "phone", "title": "Liên hệ hỗ trợ", "slug": "EditAdmin" },
+  { "id": 9, "icon": "log-out", "title": "Logout", "slug": "ModalLogIn"}
+]
